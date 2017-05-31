@@ -1,0 +1,21 @@
+{
+  "name": "terminator-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cclinard84/terminator-bot.git"
+  },
+  "author": "Matt Clinard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cclinard84/terminator-bot/issues"
+  },
+  "homepage": "https://github.com/cclinard84/terminator-bot#readme"
+}
